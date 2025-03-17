@@ -1,6 +1,6 @@
-# minesweeperGame in C++ Terminal
+# Minesweeper Game
 Game of minesweeper played in the terminal
 
-Project start data: December 1st, 2022
-
 Basic game of minesweeper made in C++
+
+Made for the purposes of quick entertainment to play and while coding
